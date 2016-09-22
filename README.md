@@ -6,39 +6,42 @@
 
 Traducción del proyecto original [Playground Project](https://github.com/UnityTechnologies/PlaygroundProject)
 
-A collection of simple scripts to create 2D physics game, intended for giving workshops to an audience of beginner game developers to quickly enable them to make games in Unity.
 
-##Documentation
+Una colección de scripts básicos para crear  juego 2D con físicas  , destinada a dar talleres a  principiantes desarrolladores de videojuegos para que puedan hacer rápidamente juegos en Unity.
 
-**Objective**
+##Documención
 
-This project is intended to be as flexible as possible, not enforcing a specific game genre apart from the obvious constraints of being 2D and physics-powered. It contains a lot of scripts that perform _atomic_ tasks, that is they do mostly only one thing, so you can combine them to create _any kind_ of gameplay.
+**Objectivo**
 
-That said, the audience should already have an idea of how Unity works, the Editor interface, the concept of GameObjects, Components, the Scene View, Play Mode, and so forth. It might be useful to guide them through these concepts before letting them play with this project.
+Este proyecto pretende ser lo más flexible posible, no está destinado a un género específico de videojuego, aparte de las limitaciones obvias de ser 2D y potenciado por las físicas. Contiene una gran cantidad scripts que realizan tareas específicas para realizar una acción en concreto, para que puedas combinarlos para crear cualquier tipo de juego.
 
-**Usage instructions**
+Dicho esto, el público ya debe tener una idea de cómo funciona Unity, la interfaz del Editor, el concepto de GameObjects, componentes, la vista de escena, modo de reproducción, y así sucesivamente. Podría ser útil para guiarlos a través de estos conceptos antes de dejarlos jugar con este proyecto.
 
-Refer to the [Wiki](https://github.com/UnityTechnologies/PlaygroundProject/wiki) for instructions on how to use the framework.
+**Instrucciones de Uso**
 
-**Software Requirements**
+Consulta el [Wiki](https://github.com/UnityTechnologies/PlaygroundProject/wiki) para obtener las indicaciones de como usar este framework.
 
-Required: Any Unity 5.x series
+**Software necesario**
 
-**Hardware Requirements**
+Necesario: A partir de Unity 5.x 
 
-Required: Laptop
+**Hardware necesario**
 
-**Owner and Responsible Devs**
+Necesario: Laptop
 
-Owner: Ciro Continisio
+**Creador y desarrollador**
+
+Creador: Ciro Continisio
+Traducción: Pedro Marín Ramos
 
 **Change Log**
 
-- 11 Jul - Project created
-- 12 Jul - Added graphic assets
-- 15 Jul - (Mike G) Updated project structure
-- 29 Jul - Example games, Editor scripts to customise the appearance of the components
-- 07 Aug - HowTo video
-- 15 Aug - Added Resource system, Action scripts
-- 24 Aug - Refactored the whole Action system
-- 25 Aug - Added Wiki, renamed Triggers to Conditions
+- 11 Jul - Proyecto creado
+- 12 Jul - Añadidos recursos gráficos
+- 15 Jul - (Mike G) Actualizada estructura del proyecto
+- 29 Jul - Juegos de ejemplo, Editor scripts para modificar la apariencia de los componentes
+- 07 Aug - Video tutorial
+- 15 Aug - Añadidos Resource system, Action scripts
+- 24 Aug - Refactorizado todo el Action system
+- 25 Aug - Añadida la Wiki, renombrados Triggers a Conditions
+- 22 Sep - Inicio del proyecto de traducción
