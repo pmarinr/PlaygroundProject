@@ -2,7 +2,9 @@
 
 ![playground.png](https://dl.dropboxusercontent.com/u/6116499/Images/playground.png)
 
-##Description##
+##Descripción##
+
+Traducción del proyecto original [Playground Project](https://github.com/UnityTechnologies/PlaygroundProject)
 
 A collection of simple scripts to create 2D physics game, intended for giving workshops to an audience of beginner game developers to quickly enable them to make games in Unity.
 
