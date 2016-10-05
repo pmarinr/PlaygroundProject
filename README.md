@@ -7,7 +7,7 @@
 Traducción del proyecto original [Playground Project](https://github.com/UnityTechnologies/PlaygroundProject)
 
 
-Una colección de scripts básicos para crear  juego 2D con físicas  , destinada a dar talleres a  principiantes desarrolladores de videojuegos para que puedan hacer rápidamente juegos en Unity.
+Una colección de scripts básicos para crear  juegos 2D con físicas  , destinada a dar talleres a desarrolladores  principiantes de videojuegos para que puedan hacer rápidamente juegos en Unity.
 
 ##Documención
 
@@ -15,11 +15,11 @@ Una colección de scripts básicos para crear  juego 2D con físicas  , destinad
 
 Este proyecto pretende ser lo más flexible posible, no está destinado a un género específico de videojuego, aparte de las limitaciones obvias de ser 2D y potenciado por las físicas. Contiene una gran cantidad scripts que realizan tareas específicas para realizar una acción en concreto, para que puedas combinarlos para crear cualquier tipo de juego.
 
-Dicho esto, el público ya debe tener una idea de cómo funciona Unity, la interfaz del Editor, el concepto de GameObjects, componentes, la vista de escena, modo de reproducción, y así sucesivamente. Podría ser útil para guiarlos a través de estos conceptos antes de dejarlos jugar con este proyecto.
+Dicho esto, el estudiante ya debe tener una idea de cómo funciona Unity, la interfaz del Editor, el concepto de GameObjects, componentes, la vista de escena, modo de reproducción, etc. Sería útil guiarlos a través de estos conceptos antes de dejarlos jugar con este proyecto.
 
 **Instrucciones de Uso**
 
-Consulta el [Wiki](https://github.com/UnityTechnologies/PlaygroundProject/wiki) para obtener las indicaciones de como usar este framework.
+Consulta el [Wiki]https://github.com/pmarinr/PlaygroundProject/wiki) para obtener las indicaciones de como usar este framework.
 
 **Software necesario**
 
@@ -31,8 +31,8 @@ Necesario: Laptop
 
 **Creador y desarrollador**
 
-Creador: Ciro Continisio
-Traducción: Pedro Marín Ramos
+Creador: Ciro Continisio [@CiroContns](https://twitter.com/CiroContns)
+Traducción: Pedro Marín Ramos [@pmarinr](https://twitter.com/pmarinr)
 
 **Change Log**
 
