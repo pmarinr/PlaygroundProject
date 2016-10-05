@@ -32,6 +32,7 @@ Necesario: Laptop
 **Creador y desarrollador**
 
 Creador: Ciro Continisio [@CiroContns](https://twitter.com/CiroContns)
+
 Traducción: Pedro Marín Ramos [@pmarinr](https://twitter.com/pmarinr)
 
 **Change Log**
